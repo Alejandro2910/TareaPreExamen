@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511222848 source:c:\users\melissa\desktop\cosas de ale\practicapreex\main.cpp
+	<iostream>
+	<algorithm>
+	<array>
+
